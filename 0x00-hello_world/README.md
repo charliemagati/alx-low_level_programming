@@ -6,4 +6,8 @@
 
 3-name - a script that compiles a C file and creates an executable named cisfun
 
+4-puts.c -  C program that prints "Programming is like building a multilingual puzzle, followed by a new line
+
+5
+
 
